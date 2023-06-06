@@ -1,5 +1,6 @@
 {
   "name": "collection-of-div-surrogates",
+  "author": "Michael Kolesidis",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -8,10 +9,10 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^4.1.0"
+    "vite": "^4.3.9"
   },
   "dependencies": {
     "dom-window-manager": "^1.0.3",
-    "sass": "^1.58.3"
+    "sass": "^1.62.1"
   }
 }
